@@ -1,1 +1,3 @@
 Remover e recuperar arquivos no git.
+Adicionando outra linha ao arquivo 
+para analisar a diferença.
