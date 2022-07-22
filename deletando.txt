@@ -1,1 +1,0 @@
-Remover e recuperar arquivos no git.
